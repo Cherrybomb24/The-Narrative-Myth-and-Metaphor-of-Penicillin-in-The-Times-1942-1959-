@@ -1,0 +1,60 @@
+查询词: penicillin
+日期: 20261022
+源向量文件: 261020整体样本词向量数据.txt
+
+与 'penicillin' 最相似的前 50 个词:
+----------------------------------------
+排名     词汇                   相似度       
+----------------------------------------
+1      fleming              0.630590
+2      alexander            0.616652
+3      discovery            0.616266
+4      discoverer           0.600788
+5      discovered           0.599936
+6      treatment            0.579045
+7      substances           0.573050
+8      use                  0.568273
+9      drugs                0.555093
+10     streptomycin         0.553001
+11     substance            0.546538
+12     antibiotics          0.545567
+13     used                 0.542329
+14     florey               0.542039
+15     production           0.539204
+16     medical              0.537393
+17     produced             0.530458
+18     professor            0.524906
+19     bacteria             0.519044
+20     mould                0.516019
+21     doctors              0.515244
+22     preparations         0.514433
+23     methods              0.510341
+24     synthesis            0.508640
+25     drug                 0.508531
+26     therapeutic          0.507983
+27     supply               0.505361
+28     now                  0.491180
+29     sir                  0.488643
+30     antibiotic           0.488410
+31     first                0.487171
+32     clinical             0.485740
+33     culture              0.485034
+34     injection            0.481381
+35     producing            0.481018
+36     acid                 0.478990
+37     recently             0.478518
+38     doctor               0.478324
+39     disease              0.477964
+40     manufacture          0.475545
+41     also                 0.472729
+42     control              0.471962
+43     laboratory           0.469620
+44     medicine             0.469314
+45     supplies             0.467819
+46     administration       0.466334
+47     described            0.462436
+48     resistant            0.462426
+49     made                 0.461944
+50     studied              0.461266
+----------------------------------------
+共找到 2483 个不同的词

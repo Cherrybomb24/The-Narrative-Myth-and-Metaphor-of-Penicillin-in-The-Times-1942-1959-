@@ -1,0 +1,60 @@
+查询词: modern
+日期: 20261022
+源向量文件: 261020整体样本词向量数据.txt
+
+与 'modern' 最相似的前 50 个词:
+----------------------------------------
+排名     词汇                   相似度       
+----------------------------------------
+1      human                0.559702
+2      methods              0.548134
+3      medicine             0.543382
+4      knowledge            0.512207
+5      chemical             0.489437
+6      well                 0.489364
+7      essential            0.489333
+8      times                0.486061
+9      new                  0.483555
+10     latest               0.481412
+11     art                  0.474681
+12     machines             0.468424
+13     rooms                0.466252
+14     illustrated          0.464762
+15     developments         0.463283
+16     uses                 0.463094
+17     good                 0.459637
+18     surgery              0.458492
+19     science              0.456499
+20     used                 0.455871
+21     scientific           0.452197
+22     room                 0.451643
+23     purposes             0.451591
+24     recognized           0.450467
+25     material             0.450211
+26     remedies             0.449083
+27     design               0.448328
+28     -write               0.448013
+29     diseases             0.446354
+30     use                  0.446168
+31     also                 0.445161
+32     instruments          0.444234
+33     types                0.441764
+34     experimental         0.440857
+35     technical            0.440262
+36     penicillin           0.439149
+37     plant                0.437236
+38     apparatus            0.435609
+39     possibilities        0.434904
+40     speed                0.433818
+41     fields               0.432714
+42     gas                  0.431322
+43     example              0.428930
+44     future               0.427203
+45     medical              0.427038
+46     designed             0.426049
+47     institution          0.425513
+48     achieved             0.424088
+49     progress             0.423424
+50     antibiotics          0.422610
+----------------------------------------
+共找到 2483 个不同的词

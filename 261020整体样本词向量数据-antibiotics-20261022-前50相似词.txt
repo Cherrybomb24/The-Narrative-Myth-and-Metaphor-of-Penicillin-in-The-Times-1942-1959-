@@ -1,0 +1,60 @@
+查询词: antibiotics
+日期: 20261022
+源向量文件: 261020整体样本词向量数据.txt
+
+与 'antibiotics' 最相似的前 50 个词:
+----------------------------------------
+排名     词汇                   相似度       
+----------------------------------------
+1      drugs                0.645100
+2      streptomycin         0.607591
+3      bacteria             0.585385
+4      resistant            0.576847
+5      compounds            0.570442
+6      infections           0.550938
+7      penicillin           0.545567
+8      substances           0.543833
+9      diseases             0.538185
+10     antibiotic           0.532628
+11     preparations         0.529643
+12     disease              0.526908
+13     research             0.514012
+14     treatment            0.513607
+15     penicillins          0.513374
+16     products             0.512658
+17     chemical             0.510520
+18     synthetic            0.508818
+19     infection            0.508652
+20     insulin              0.504489
+21     growth               0.498902
+22     drug                 0.489655
+23     vitamin              0.487687
+24     organic              0.485205
+25     therapeutic          0.484400
+26     encouraging          0.482079
+27     new                  0.481625
+28     production           0.481208
+29     results              0.480985
+30     example              0.480931
+31     remedies             0.478393
+32     substance            0.474485
+33     effective            0.474366
+34     experiments          0.470805
+35     use                  0.470021
+36     discovery            0.469843
+37     however              0.467040
+38     produced             0.466720
+39     animal               0.461843
+40     veterinary           0.460776
+41     pharmaceutical       0.454361
+42     now                  0.454040
+43     virus                0.450358
+44     investigations       0.449370
+45     chemists             0.447891
+46     laboratories         0.445458
+47     process              0.444547
+48     synthesis            0.444055
+49     expensive            0.443659
+50     developed            0.443482
+----------------------------------------
+共找到 2483 个不同的词
