@@ -1,0 +1,60 @@
+查询词: patient
+日期: 20261022
+源向量文件: 261020整体样本词向量数据.txt
+
+与 'patient' 最相似的前 50 个词:
+----------------------------------------
+排名     词汇                   相似度       
+----------------------------------------
+1      doctor               0.645372
+2      treatment            0.563125
+3      patients             0.543493
+4      doctors              0.540083
+5      too                  0.537384
+6      injections           0.535928
+7      injection            0.529481
+8      often                0.514383
+9      negligence           0.512903
+10     prescription         0.510359
+11     insulin              0.494965
+12     x-ray                0.493493
+13     danger               0.491828
+14     even                 0.491514
+15     changed              0.482736
+16     human                0.481166
+17     cases                0.480802
+18     well                 0.479698
+19     case                 0.476591
+20     proved               0.475053
+21     useful               0.474146
+22     only                 0.472653
+23     result               0.471578
+24     means                0.469926
+25     treated              0.464212
+26     dead                 0.461798
+27     use                  0.460401
+28     short                0.452286
+29     radiation            0.451693
+30     drug                 0.450509
+31     illness              0.450328
+32     individual           0.444950
+33     likely               0.443823
+34     acute                0.443803
+35     like                 0.440946
+36     hospital             0.440675
+37     administered         0.436133
+38     came                 0.435530
+39     diseases             0.435035
+40     wounds               0.434962
+41     sick                 0.434006
+42     penicillin           0.433712
+43     body                 0.433706
+44     seemed               0.433379
+45     known                0.433223
+46     possible             0.433218
+47     anyone               0.431871
+48     quickly              0.430628
+49     remedies             0.430529
+50     available            0.429873
+----------------------------------------
+共找到 2483 个不同的词
