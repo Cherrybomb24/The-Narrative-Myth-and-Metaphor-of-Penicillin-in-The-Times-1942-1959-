@@ -1,0 +1,60 @@
+查询词: penicillin
+日期: 20261022
+源向量文件: 第二阶段词向量.txt
+
+与 'penicillin' 最相似的前 50 个词:
+----------------------------------------
+排名     词汇                   相似度       
+----------------------------------------
+1      also                 0.920590
+2      last                 0.908171
+3      spring               0.904389
+4      greater              0.890335
+5      next                 0.889312
+6      materials            0.871368
+7      january              0.868942
+8      standard             0.863637
+9      lines                0.854335
+10     part                 0.847434
+11     tickets              0.846004
+12     processes            0.845970
+13     new                  0.840664
+14     answer               0.839812
+15     special              0.836179
+16     government           0.822880
+17     based                0.821088
+18     53                   0.820558
+19     taken                0.820059
+20     built                0.817335
+21     obtained             0.815284
+22     buildings            0.814131
+23     knowledge            0.806972
+24     manufacture          0.805236
+25     reduce               0.802685
+26     surrey               0.797869
+27     zealand              0.795180
+28     side                 0.789571
+29     desirable            0.781308
+30     general              0.778661
+31     substances           0.776042
+32     medical              0.773498
+33     atomic               0.763783
+34     dec                  0.760609
+35     vitamin              0.758408
+36     73                   0.755531
+37     day                  0.754795
+38     remained             0.753902
+39     much                 0.752836
+40     probably             0.752799
+41     pension              0.745685
+42     problem              0.744935
+43     school               0.741829
+44     consumption          0.741328
+45     figure               0.738724
+46     stages               0.732882
+47     milk                 0.730043
+48     firms                0.726582
+49     practical            0.724656
+50     carrying             0.724261
+----------------------------------------
+共找到 1432 个不同的词

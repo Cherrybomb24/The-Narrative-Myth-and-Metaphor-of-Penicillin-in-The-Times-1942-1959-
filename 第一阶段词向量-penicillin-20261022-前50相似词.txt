@@ -1,0 +1,60 @@
+查询词: penicillin
+日期: 20261022
+源向量文件: 第一阶段词向量.txt
+
+与 'penicillin' 最相似的前 50 个词:
+----------------------------------------
+排名     词汇                   相似度       
+----------------------------------------
+1      condition            0.968121
+2      soldiers             0.966574
+3      advised              0.965879
+4      easily               0.965560
+5      suffering            0.965054
+6      speed                0.964640
+7      started              0.964148
+8      supreme              0.964008
+9      robinson             0.963886
+10     establish            0.963834
+11     croydon              0.963528
+12     object               0.962998
+13     italian              0.962881
+14     spread               0.962873
+15     writing              0.962870
+16     seven                0.962694
+17     borough              0.962402
+18     direction            0.962278
+19     passing              0.962203
+20     requirements         0.962017
+21     robert               0.961944
+22     involved             0.961781
+23     assist               0.961668
+24     fleming              0.961613
+25     21                   0.961541
+26     occasion             0.961493
+27     remedy               0.961309
+28     arrangement          0.961220
+29     abroad               0.961190
+30     queen                0.961184
+31     blue                 0.961182
+32     success              0.961162
+33     case                 0.961089
+34     acquired             0.961083
+35     wounds               0.961054
+36     how                  0.960912
+37     necessary            0.960827
+38     satisfactory         0.960771
+39     land                 0.960663
+40     things               0.960655
+41     urged                0.960521
+42     looked               0.960512
+43     order                0.960477
+44     buildings            0.960462
+45     40                   0.960453
+46     willing              0.960424
+47     smith                0.960389
+48     knowledge            0.960341
+49     followed             0.960328
+50     programme            0.960282
+----------------------------------------
+共找到 2140 个不同的词

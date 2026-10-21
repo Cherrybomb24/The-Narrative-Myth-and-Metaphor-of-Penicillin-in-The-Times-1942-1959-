@@ -1,0 +1,60 @@
+查询词: penicillin
+日期: 20261022
+源向量文件: 第三阶段词向量.txt
+
+与 'penicillin' 最相似的前 50 个词:
+----------------------------------------
+排名     词汇                   相似度       
+----------------------------------------
+1      method               0.477794
+2      penicillins          0.462182
+3      streptomycin         0.439412
+4      injections           0.429450
+5      death                0.407046
+6      discovery            0.405071
+7      human                0.404752
+8      antibiotics          0.402972
+9      laboratories         0.400913
+10     fleming              0.379634
+11     infection            0.374907
+12     effective            0.366848
+13     body                 0.365838
+14     successful           0.365585
+15     antibiotic           0.362239
+16     recent               0.361715
+17     injection            0.360610
+18     bacteria             0.358469
+19     patients             0.358228
+20     produced             0.357757
+21     problem              0.356275
+22     mrs                  0.354324
+23     dr                   0.352118
+24     where                0.349430
+25     particularly         0.343378
+26     course               0.342881
+27     died                 0.341122
+28     result               0.340078
+29     particular           0.334453
+30     given                0.333488
+31     new                  0.329821
+32     drugs                0.328914
+33     science              0.326355
+34     know                 0.326345
+35     staff                0.321728
+36     institute            0.320816
+37     gave                 0.319385
+38     medicine             0.319297
+39     britain              0.318313
+40     progress             0.313200
+41     scientists           0.312713
+42     different            0.312434
+43     doctor               0.311851
+44     produce              0.307638
+45     several              0.306489
+46     beat                 0.305922
+47     music                0.305223
+48     rate                 0.305148
+49     chemical             0.304282
+50     hospital             0.303940
+----------------------------------------
+共找到 464 个不同的词
